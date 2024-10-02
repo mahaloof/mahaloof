@@ -8,8 +8,8 @@ const About = () => {
       <img src={about_img} alt='' className='about-img'/>
     </div>
     <div className="about-right">
-      <h3>Name of the School</h3>
-      <h2>Thoughts</h2>
+      <h3>ICSB</h3>
+      <h2>Our Mision & Vision</h2>
       <p>In antiquity, a paragraph often was a single thought—and often a single sentence,
          usually a very long one. 
         Writers today, however, tend not to go on the way classical authors did. 

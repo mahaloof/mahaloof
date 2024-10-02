@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <div className='hero Container' id='Home'>
     <div className="home-text">
-        <h1>P.A COLLAGE OF Engineering</h1>
+        <h1>P.A COLLAGE OF ENGINEERING</h1>
         <center><h2>ICSB</h2></center>
-        <p>LINKING IDEAS BULDING NETWORKS</p>
+        <p>IOT|CYBER SECURITY|BLOCK CHAIN</p>
         <button className='btn'>Know More<img src={dark_arrow} alt="" /></button>
     </div>
     </div>

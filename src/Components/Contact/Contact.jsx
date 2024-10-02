@@ -35,7 +35,7 @@ const onSubmit = async (event) => {
   return (
     <div className='contact'>
         <div className="contact-col">
-            <h3>Reserve<br/>Your Function </h3>
+            <h3>Reach Out<br/>and Connect with Us </h3>
             <p>To reserve the Grand Auditorium for your upcoming event, 
                 simply complete the form provided.One of our executives 
                 will contact you with in 24 hours .</p>
